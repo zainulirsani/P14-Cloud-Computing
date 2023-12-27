@@ -1,2 +1,4 @@
-Nama  : Muhammad Zainul Irsani
-NIM    : 21101114
+Nama    : Muhammad Zainul Irsani
+NIM     : 21101114
+matkul  : Cloud Computing
+Jam Matkul  : Rabu, 19.50-22.20
